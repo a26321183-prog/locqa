@@ -1,0 +1,57 @@
+{
+  "tool": "locqa",
+  "language": "kk",
+  "language_name": "Kazakh",
+  "language_native": "Қазақша",
+  "source_file": "/tmp/claude-0/-home-claude/e3d96e86-4e33-521e-ac95-d3080bef86e3/scratchpad/handout/handout/intl_ru.arb",
+  "target_file": "/tmp/claude-0/-home-claude/e3d96e86-4e33-521e-ac95-d3080bef86e3/scratchpad/handout/handout/intl_kk.arb",
+  "source_keys": 5478,
+  "target_keys": 5468,
+  "findings": 219,
+  "affected_keys": 216,
+  "by_type": {
+    "untranslated": 13,
+    "same_as_source": 47,
+    "placeholder_mismatch": 12,
+    "plural_mismatch": 0,
+    "glossary_violation": 3,
+    "length_overflow": 10,
+    "machine_translation_suspect": 2,
+    "inconsistent_term": 86,
+    "suffix_harmony": 8,
+    "orthography": 26,
+    "wrong_language": 12
+  },
+  "by_severity": {
+    "high": 60,
+    "medium": 77,
+    "low": 82
+  },
+  "glossary_terms": 13,
+  "reference_languages": [
+    "en",
+    "uz"
+  ],
+  "duplicate_keys_in_target": [
+    "alabuga_ad_text",
+    "alabuga_clean_class",
+    "alabuga_cleaning_created",
+    "alabuga_cleaning_failed",
+    "alabuga_cleaning_motivation",
+    "alabuga_congrats",
+    "alabuga_lab_motivation",
+    "alabuga_math_desc_2",
+    "alabuga_mix",
+    "alabuga_mixing",
+    "alabuga_npc_tip",
+    "alabuga_prize_available",
+    "alabuga_prize_title",
+    "alabuga_recipe_journal",
+    "alabuga_recipes_discovered",
+    "alabuga_route_button",
+    "alabuga_start_button",
+    "alabuga_time_expired",
+    "alabuga_unknown_substance",
+    "alabuga_what_is"
+  ]
+}

@@ -1,0 +1,249 @@
+﻿key,issue_types,source,original,proposed,origin,decision,final_text,reviewer
+laAccountEmptyHelpTopText1,untranslated,"Здесь будет отображаться статистика
+ваших персонажей",,"Мұнда кейіпкерлеріңіздің
+статистикасы көрсетіледі",curated,,,
+laYouNeedToLinkThisSocialNetworkToAccount,untranslated,Вам необходимо привязать данную социальную сеть к аккаунту,,Бұл әлеуметтік желіні аккаунтыңызға байланыстыруыңыз қажет,curated,,,
+inventory,untranslated,Инвентарь,,Инвентарь,curated,,,
+invDisassemble,untranslated,РАЗОБРАТЬ,,БӨЛШЕКТЕУ,curated,,,
+tablet_auc_all_your_bets,untranslated,Всего ваших ставок,,Сіздің барлық ставкаларыңыз,curated,,,
+bankConfirmApartment,untranslated,"Вы действительно хотите оплатить недвижимость: Квартира
+на сумму",,"Сіз шынымен жылжымайтын мүлік үшін төлегіңіз келе ме: Пәтер
+сомасы",curated,,,
+piggyGetBy,untranslated,Снять за,,Алу:,curated,,,
+newYearInfoDesc2,untranslated,"За задания можно получить опыт для Сезонного Пропуска и Леденцы.
+
+Ежедневные задания обновляются каждый день, а также их можно обновить через специальный бустер.
+
+Также при приобретении Сезонного пропуска открывается доступ к специальным заданиям.",,"Тапсырмаларды орындап, Сезондық пас үшін тәжірибе мен кәмпиттер алуға болады.
+
+Күнделікті тапсырмалар күн сайын жаңарады, сондай-ақ оларды арнайы бустер арқылы жаңартуға болады.
+
+Сондай-ақ Сезондық пас сатып алғанда арнайы тапсырмаларға қолжетімділік ашылады.",curated,,,
+bigCatchTournamentsVictories,untranslated,Побед в турнирах,,Турнирлердегі жеңістер,curated,,,
+bigCatchStoryLineSkipTimer,untranslated,Пропуск таймера,,Таймерді өткізу,curated,,,
+inventoryMailSubsectionLeftHand,untranslated,Лев. рука,,Сол қол,curated,,,
+dragRacingLevelUpgradeTitle1,untranslated,УРОВНЯ,,ДЕҢГЕЙГЕ,curated,,,
+predictionsBetsPossibleReward,untranslated,Возможный выигрыш,,Мүмкін ұтыс,curated,,,
+laAuthorisationError,wrong_language,Ошибка авторизации,Avtorizatsiya xatosi,Авторизация қатесі,curated,,,
+pauseSettingsSocialMedia,wrong_language,ПРИВЯЗКА СОЦИАЛЬНЫХ СЕТЕЙ,IJTIMOIY TARMOQNI BOG‘LASH,ӘЛЕУМЕТТІК ЖЕЛІЛЕРДІ БАЙЛАНЫСТЫРУ,curated,,,
+settingsGameShowHud,wrong_language,Отображение худа,HUD’ni ko‘rsatish,Худты көрсету,curated,,,
+donate_to_mail,wrong_language,На почту,Pochta bo‘limiga,Поштаға,auto,,,
+repeat,wrong_language,Ещё раз,Takrorlash,тағы да,auto,,,
+arena_starting_health,wrong_language,стартовое здоровье,Standart salomatlik,бастапқы денсаулық,curated,,,
+bankTotalToPay,wrong_language,Итого к оплате:,Jami to‘lov:,Төлемнің жиыны:,curated,,,
+summerRushFreshCases,wrong_language,Свежие кейсы,Yangi qutilar,Жаңа кейстер,curated,,,
+edu_tablet_purchase_item_lottery_ticket,wrong_language,Лотерейный билет,Lotereya chiptasi,Лотерея билеті,curated,,,
+birthday_main_updates_in,placeholder_mismatch,Обновится через: {time},Жаңарады: time,Жаңарады: {time},auto,,,
+arena_platform_colorname,placeholder_mismatch,Встаньте на {platformColor} платформу,{platformColo} платформаға тұрыңыз,{platformColor} платформаға тұрыңыз,auto,,,
+inventoryEquipped,wrong_language,Надето,Equipped,Киілген,curated,,,
+dragRacingV2BuyDesc1,placeholder_mismatch,Чертежи для {blueprintTitle},blueprintTitle үшін сызбалар,{blueprintTitle} үшін сызбалар,auto,,,
+predictionsBuyCoinsMinError,placeholder_mismatch,Нельзя купить меньше {min},min-нан аз сатып алуға болмайды,{min}-нан аз сатып алуға болмайды,auto,,,
+rustoreOfferBuyFor,placeholder_mismatch,Купить за {price},price бағасына сатып алу,{price} бағасына сатып алу,auto,,,
+chaosUpgradeText,placeholder_mismatch,"Вы улучшили {upgradeTitle} своего
+транспортного средства до {upgradeLevel} уровня!","Сіз өз көлігіңіздің upgradeTitle
+көрсеткішін {upgradeLevel} деңгейге дейін жақсарттыңыз!","Сіз өз көлігіңіздің {upgradeTitle}
+көрсеткішін {upgradeLevel} деңгейге дейін жақсарттыңыз!",auto,,,
+srv2endsIn,wrong_language,СОБЫТИЕ ЗАКОНЧИТСЯ ЧЕРЕЗ:,EVENT TUGASHIGA QOLDI:,ІС-ШАРА АЯҚТАЛУЫНА ДЕЙІН:,curated,,,
+schAssignmentTrainerIntro,placeholder_mismatch,"Хочешь быть лучше всех? Так стань им!
+<g>Каждый час</g> по всей карте появляются около <g>{books} книг</g>!
+Тебе нужно быть быстрее и ловчее всех, чтобы собрать их!
+Собираешь книги, приносишь их мне – получаешь награду.","Бәрінен үздік болғың келе ме? Онда үздік бол!
+<g>Әр сағат сайын</g> бүкіл картада шамамен <g>books кітап</g> пайда болады!
+Оларды жинау үшін бәрінен жылдам әрі епті болуың керек!
+Кітаптарды жинап, маған әкелсең – сыйлық аласың.","Бәрінен үздік болғың келе ме? Онда үздік бол!
+<g>Әр сағат сайын</g> бүкіл картада шамамен <g>{books} кітап</g> пайда болады!
+Оларды жинау үшін бәрінен жылдам әрі епті болуың керек!
+Кітаптарды жинап, маған әкелсең – сыйлық аласың.",auto,,,
+schGiftPassConfirmQuestion,placeholder_mismatch,Вы действительно хотите подарить {name},Сіз шынымен name сыйлағыңыз келе ме,Сіз шынымен {name} сыйлағыңыз келе ме,auto,,,
+schPassRewardLevelRequired,placeholder_mismatch,"Требуется {level}
+уровень пропуска","Пасстың {leve}
+деңгейі қажет","Пасстың {level}
+деңгейі қажет",auto,,,
+schStoreCasePossiblePrizes,placeholder_mismatch,Возможные призы: {title},Мүмкін сыйлықтар: title,Мүмкін сыйлықтар: {title},auto,,,
+schTutorialT2S1,placeholder_mismatch,"Следи за шкалой: {playerTeamText}.
+Очки накапливаются от действий всех участников фракции.
+Жми <g>Инфо о битве</g>, чтобы узнать детали правил
+и условия участия в дуэлях!","Жолақты бақыла: playerTeamText.
+Ұпайлар фракцияның барлық мүшелерінің әрекеттерінен жиналады.
+Дуэльдердің ережелері мен қатысу шарттарын білу үшін
+<g>Шайқас ақпараты</g> түймесін бас!","Жолақты бақыла: {playerTeamText}.
+Ұпайлар фракцияның барлық мүшелерінің әрекеттерінен жиналады.
+Дуэльдердің ережелері мен қатысу шарттарын білу үшін
+<g>Шайқас ақпараты</g> түймесін бас!",auto,,,
+launcherSettingsDeleteAccountConfirm,wrong_language,"Для удаления игрового профиля
+приложение будет закрыто.
+Пожалуйста, запустите его снова.","Para excluir o perfil do jogo,
+o aplicativo será fechado.
+Por favor, abra-o novamente.","Ойын профилін жою үшін
+қосымша жабылады.
+Оны қайта іске қосыңыз.",curated,,,
+accessories_type_other,length_overflow,РАЗНОЕ,Басқа режимін қосу және жалғастыру,БАСҚА,auto,,,
+tune_buy_neon,length_overflow,Цвет неона,Неон түсі туралы толық ақпарат алу үшін,Неон түсі,auto,,,
+detail_type_almaz,length_overflow,Алмазная,Гауһар режимін қосу және жалғастыру,Гауһар,auto,,,
+bankDays1,length_overflow,1 день,1 КҮН бөліміне өту үшін басыңыз,кҮН,auto,,,
+summerRushRaceGasAfterPrefix,length_overflow,через:,кейін: режимін қосу және жалғастыру,кейін,auto,,,
+newYearToStore,length_overflow,В МАГАЗИН,ДҮКЕНГЕ ӨТУ туралы толық ақпарат алу үшін,ДҮКЕНГЕ ӨТУ,auto,,,
+inventoryMailSubsectionTop,length_overflow,Верх,Үсті бөліміне өту үшін басыңыз,Үсті,auto,,,
+predictionsBetsTitle,length_overflow,Прием Ставок,Тігістер режимін қосу және жалғастыру,Тігістер,auto,,,
+predictionsBetsResultWin,length_overflow,Победа,Жеңіс режимін қосу және жалғастыру,Жеңіс,auto,,,
+predictionsBracketWinner,length_overflow,Победитель,Жеңімпаз туралы толық ақпарат алу үшін,Жеңімпаз,auto,,,
+jungleTreasuresRecieveImmediately,same_as_source,и получить предмет сразу,и получить предмет сразу,және затты бірден алу,curated,,,
+bankConfirmHouse,same_as_source,"Вы действительно хотите оплатить недвижимость: Дом
+на сумму","Вы действительно хотите оплатить недвижимость: Дом
+на сумму","Сіз шынымен жылжымайтын мүлік үшін төлегіңіз келе ме: Үй
+сомасы",curated,,,
+summerRushAfkKickCountdown,same_as_source,До исключения за АФК,До исключения за АФК,АФК үшін шығарылуға дейін,curated,,,
+edu_desc_hud_control_enter_vehicle,same_as_source,"Отлично, у тебя получилось открыть авто. Теперь сядь в него, нажав кнопку в правой части экрана.","Отлично, у тебя получилось открыть авто. Теперь сядь в него, нажав кнопку в правой части экрана.","Тамаша, көлікті аштың. Енді экранның оң жағындағы батырманы басып, көлікке отыр.",curated,,,
+birthday_info_more_play,same_as_source,Чем больше играешь - тем выше Ты и Твоя Команда!,Чем больше играешь - тем выше Ты и Твоя Команда!,Қанша көп ойнасаң — Сен және Сенің Командаң соншалықты жоғары көтеріледі!,curated,,,
+bigCatchTutorialTextTaskFirst,orthography,"Начнем с основ.
+Переходи в раздел сюжетных заданий и
+бери первое поручение.
+Я подготовил для тебя стартовый комплект
+снастей!","Алдымен негіздерден бастайық.
+Сюжет бөлімiне өтiп,
+алғашқы тапсырманы ал.
+Мен сен үшін бастапқы
+қармақ жинағын дайындадым!","Алдымен негіздерден бастайық.
+Сюжет бөліміне өтіп,
+алғашқы тапсырманы ал.
+Мен сен үшін бастапқы
+қармақ жинағын дайындадым!",auto,,,
+userMenuReportsAdminConclusionReviewed,same_as_source,Заключение: адм.{adminName} (Рассмотрено),Заключение: адм.{adminName} (Рассмотрено),Қорытынды: әкімш.{adminName} (Қаралды),curated,,,
+footballTutorDesc31,same_as_source,Для участия в матчах нужно топливо.,Для участия в матчах нужно топливо.,Матчтарға қатысу үшін жанармай қажет.,curated,,,
+chaosStep3Part1Text,same_as_source,"Задания подскажут, чем заняться дальше,
+если ты не знаешь, куда ехать. Просто выбери
+цель – и город сам найдёт способ проверить тебя.","Задания подскажут, чем заняться дальше,
+если ты не знаешь, куда ехать. Просто выбери
+цель – и город сам найдёт способ проверить тебя.","Қайда барарыңды білмесең,
+тапсырмалар әрі қарай не істеу керегін айтады. Жай ғана
+мақсатты таңда – қала сені сынаудың жолын өзі табады.",curated,,,
+chaosStep7Part0Text,orthography,"Здесь ты видишь своё место среди других
+участников турнира. Чем больше REP
+и побед в PVP, тем выше ты поднимаешься.","Мұнда сен турнирдің басқа
+қатысушылары арасындағы орныңды көресің. REP
+және PVP жеңістері неғұрлым көп болса, соғұрлым жоғары көтерілеcің.","Мұнда сен турнирдің басқа
+қатысушылары арасындағы орныңды көресің. REP
+және PVP жеңістері неғұрлым көп болса, соғұрлым жоғары көтерілесің.",auto,,,
+srv2needPremiumPass,same_as_source,Необходим Premium Pass,Необходим Premium Pass,Premium Pass қажет,curated,,,
+schDuelsPointsAmount,placeholder_mismatch,{points} ОЧКОВ,ҰПАЙ,{points} ҰПАЙ,curated,,,
+schTutorialT8S0,same_as_source,"Нужны законные „чит-коды“ для быстрой победы?
+Раздел <g>Бустеры</g> — твой личный допинг-контроль! Здесь продаются
+специальные улучшения, которые дадут тебе преимущество над
+соперниками.","Нужны законные „чит-коды“ для быстрой победы?
+Раздел <g>Бустеры</g> — твой личный допинг-контроль! Здесь продаются
+специальные улучшения, которые дадут тебе преимущество над
+соперниками.","Жылдам жеңіс үшін заңды „чит-кодтар“ керек пе?
+<g>Бустерлер</g> бөлімі — сенің жеке допинг-бақылауың! Мұнда қарсыластардан
+үстемдік беретін арнайы жақсартулар сатылады.",curated,,,
+laBillingRetrying,suffix_harmony,Не удаётся подключиться к {provider}. Повторная попытка…,{provider}-ға қосылу мәселесі. Қайталау…,Қосылу мәселесі: {provider}. Қайталау…,curated,,,
+laBillingUnavailable,suffix_harmony,Оплата через {provider} недоступна на этом устройстве.,Бұл құрылғыда {provider}-ға төлемі қолжетімді емес.,Бұл құрылғыда {provider} арқылы төлем қолжетімді емес.,curated,,,
+newYearChapter,suffix_harmony,АКТ {competition},{competition}-ға АКТІ,{competition} АКТІСІ,curated,,,
+userMenuReportsFromTo,suffix_harmony,От {fromUser} на {toUser},{fromUser}-дан {toUser}-ға қарсы,"Кімнен: {fromUser}, кімге қарсы: {toUser}",curated,,,
+predictionsBuyCoinsMaxError,suffix_harmony,Нельзя купить больше {max},{max}-нан көп сатып алуға болмайды,{max} мәнінен көп сатып алуға болмайды,curated,,,
+srv2needPassLevel,suffix_harmony,"Требуется
+{id} уровень пропуска","Пропусктың
+{id}-ға деңгейі қажет","Пасстың
+{id} деңгейі қажет",curated,,,
+rouletteBetText,suffix_harmony,"Вы действительно хотите сделать
+ставку <g>{bet} GC</g> на <g>{x}X</g>?","Сіз шынымен <g>{x}X</g> мәніне
+<g>{bet}-ға GC</g> ставка жасағыңыз келе ме?","Сіз шынымен <g>{x}X</g> мәніне
+<g>{bet} GC</g> ставка жасағыңыз келе ме?",curated,,,
+wheelOfFortuneBuyFor,suffix_harmony,Купить за {price},{price}-ге сатып алу,Сатып алу: {price},curated,,,
+laReauthorizationRequired,orthography,Необходима повторная авторизация,Кайта авторизация қажет,Қайта авторизация қажет,auto,,,
+allowMicrophoneAccess,orthography,Разрешите доступ к микрофону,МИКРОФОНҒА РҰКСАТ БЕРІҢІЗ,МИКРОФОНҒА РҰҚСАТ БЕРІҢІЗ,auto,,,
+complaint_state_user_comment,inconsistent_term|orthography,Получен комментарий,Пікир алынды,Пікір алынды,auto,,,
+pirate_treasury_map,orthography,Карта сокровищ,Казына картасы,Қазына картасы,auto,,,
+drag_1every12,orthography,1 раз каждые 12 часов,12 сагат сайын 1 рет,12 сағат сайын 1 рет,auto,,,
+onex_profile_date,orthography,Дата и время,Күн жане уақыт,Күн және уақыт,auto,,,
+tp_create_title,orthography,Создание продажи,Сатуды кұру,Сатуды құру,auto,,,
+fam_edit_rang,orthography,РЕДАКТИРОВАНИЕ РАНГА,РАНГТІ ӨҢДЕУ,РАНГТЫ ӨҢДЕУ,auto,,,
+superPrize,orthography,Суперприз,супер сыйлык,супер сыйлық,auto,,,
+alabuga_math_check_hint,orthography,Проверьте примеры за 5 секунд ,Мысалдарды 5 секундта тексеріңиз,Мысалдарды 5 секундта тексеріңіз,auto,,,
+summerRushRaceNotEnoughGas,orthography,"У ВАС НЕДОСТАТОЧНО ТОПЛИВА, ЧТОБЫ ПРИНЯТЬ
+УЧАСТИЕ В ГОНКЕ.","ЖАРЫСКА ҚАТЫСУҒА
+ОТЫН ЖЕТПЕЙДІ.","ЖАРЫСҚА ҚАТЫСУҒА
+ОТЫН ЖЕТПЕЙДІ.",auto,,,
+newYearSeasonQuests,orthography,Сезонные задания,Мезгілдик тапсырмалар,Мезгілдік тапсырмалар,auto,,,
+userMenuArenaMapSelection,orthography,Выбор карты:,Карта тандау:,Карта таңдау:,auto,,,
+dragRacingV2BuyBSlotTitle,orthography,ДОП СЛОТ ДЛЯ ЧЕРТЕЖЕЙ,СЫЗБАЛАР ҮШІН ҚОСЫМША ҰЯШЫК,СЫЗБАЛАР ҮШІН ҚОСЫМША ҰЯШЫҚ,auto,,,
+questsV2CalendarAboutTaskTitle1,orthography,"Находите
+автомобили","Коліктерді
+Табыңыз","Көліктерді
+Табыңыз",auto,,,
+footballShopTicketsDesc0,orthography,Введите количество билетов для покупки,Сатып алынатын билеттер санын енгизіңіз,Сатып алынатын билеттер санын енгізіңіз,auto,,,
+mesVehicleSelectTitle,orthography,Выбор транспорта,Көликті таңдау,Көлікті таңдау,auto,,,
+schTutorialT1S1,orthography,"Это твой <g>Текущий уровень и Опыт</g>. Учись хорошо — выполняй
+задания и играй, чтобы забивать шкалу опытом. Каждое
+заполнение поднимает твои привилегии на новый уровень!","Бұл сенің <g>Ағымдағы деңгейің және Тәжірибең</g>. Жақсы оқы —
+тапсырмаларды орындап, ойнап, тәжірибе жолағын толтыр. Әр
+толтыру артықшылықтарыңды жаңа деңгейге көтереді!","Бұл сенің <g>Ағымдағы деңгейін және Тәжірибең</g>. Жақсы оқы —
+тапсырмаларды орындап, ойнап, тәжірибе жолағын толтыр. Әр
+толтыру артықшылықтарыңды жаңа деңгейге көтереді!",auto,,,
+schTutorialT2S2,inconsistent_term|orthography,"В верхнем правом углу отображаются твои <g>Очки влияния</g>.
+Это твоя личная работа на благо коллектива. Не сачкуй на уроках и
+заходи в игру, чтобы тянуть команду к вершине!","Жоғарғы оң жақ бұрышта сенің <g>Ықпал ұпайларың</g> көрсетіледі.
+Бұл — командаға қосқан жеке үлесің. Сабақтан жалтармай,
+командаңды шыңға жеткізу үшін ойынға кіріп тұр!","Жоғарғы оң жақ бұрышта сенің <g>Ықпал ұпайларын</g> көрсетіледі.
+Бұл — командаға қосқан жеке үлесің. Сабақтан жалтармай,
+командаңды шыңға жеткізу үшін ойынға кіріп тұр!",auto,,,
+schTutorialT3S0,orthography,"Перед тобой школьная <g>Доска почёта</g>! Здесь сразу видно,
+кто у нас круглый отличник по очкам, а кто плетётся
+в прогульщиках. Пора показать всем, кто тут главный!","Алдыңда мектептің <g>Құрмет тақтасы</g>! Мұнда кімнің ұпай бойынша
+үздік оқушы екенін, ал кімнің артта қалып қойғанын
+бірден көресің. Кімнің мықты екенін көрсететін уақыт келді!","Алдында мектептің <g>Құрмет тақтасы</g>! Мұнда кімнің ұпай бойынша
+үздік оқушы екенін, ал кімнің артта қалып қойғанын
+бірден көресің. Кімнің мықты екенін көрсететін уақыт келді!",auto,,,
+schTutorialT7S3,orthography,"Ну что, фортуна на твоей стороне?
+Испытай удачу и забирай свой топовый Дроп!","Ал, сәттілік сенің жағыңда ма?
+Бағыңды сынап, ең үздік олжаңды ал!","Ал, сәттілік сенің жағында ма?
+Бағыңды сынап, ең үздік олжаңды ал!",auto,,,
+schTutorialT9S2,orthography,"Забрать накопленный капитал можно в любой момент! Бери бейсбольную
+биту, нажимай <g>Разбить</g> за Grand Coins
+— и весь запертый золотой запас моментально перейдет на твой
+основной баланс!","Жинаған қорыңды кез келген уақытта ала аласың! Бейсбол
+таяғын алып, Grand Coins төлеп <g>Сындыру</g> түймесін бас
+— сонда жиналған бүкіл қор бірден
+негізгі балансыңа түседі!","Жинаған қорыңды кез келген уақытта ала аласың! Бейсбол
+таяғын алып, Grand Coins төлеп <g>Сындыру</g> түймесін бас
+— сонда жиналған бүкіл қор бірден
+негізгі балансына түседі!",auto,,,
+tripleJackpotRewardAvailable,orthography,Вам доступна награда,Сізге сыйлық колжетімді,Сізге сыйлық қолжетімді,auto,,,
+laUnknownNetworkError,same_as_source,Неизвестная ошибка,Неизвестная ошибка,Белгісіз қате,curated,,,
+tune_detail_turbocharging,same_as_source,ТУРБОНАДДУВ,ТУРБОНАДДУВ,ТУРБОҮРЛЕУ,curated,,,
+onex_bet_draw_suffix,same_as_source,НИЧЬЯ,НИЧЬЯ,ТЕҢ ОЙЫН,curated,,,
+halloweenEnergyBank,same_as_source,"КОПИЛКА
+ЭНЕРГИИ","КОПИЛКА
+ЭНЕРГИИ","ЭНЕРГИЯ
+ЖИНАҚ ЖӘШІГІ",curated,,,
+dragRacingInfo,same_as_source,Информация,Информация,Ақпарат,curated,,,
+dragRacingTypeStreet,same_as_source,Уличные Гонки,Уличные Гонки,Көше жарыстары,curated,,,
+footballTutorTitle71,same_as_source,Лидерборд,Лидерборд,Көшбасшылар тақтасы,curated,,,
+tune_detail_horn,same_as_source,КЛАКСОНЫ,КЛАКСОНЫ,СИГНАЛДАР,curated,,,
+alchemy_bouquet,same_as_source,Букет,Букет,Гүл шоғы,curated,,,
+chat_department,same_as_source,Департамент,Департамент,Бөлім,curated,,,
+rm_title_73,same_as_source,Напугать,Напугать,Қорқыту,curated,,,
+pts,same_as_source,ПТС,ПТС,Көлік тіркеу куәлігі,curated,,,
+sberMiniGameArzamas,same_as_source,Локация: Арзамас,Локация: Арзамас,Орналасқан жері: Арзамас,curated,,,
+alchemyItemBouquet,same_as_source,Букет,Букет,Гүл шоғы,curated,,,
+alchemyBand,same_as_source,Лента,Лента,Таспа,curated,,,
+alchemyClown,same_as_source,Клоун,Клоун,Масқарапаз,curated,,,
+birthday_improvements_cooldown,same_as_source,Кулдаун,Кулдаун,Қайта қалпына келу уақыты,curated,,,
+festivalCardsTitle,same_as_source,КОЛОДА,КОЛОДА,КАРТА ДЕСТЕСІ,curated,,,
+hud_play_50_hours,machine_translation_suspect,Отыграй 50 часов,Сағат ойнатылды,50 сағат ойна,curated,,,
+tablet_ad_info,machine_translation_suspect,Длина объявления от 1 до 70 символов,Хабарландырудың ұзындығы 3-тен 90 таңбаға дейін,Хабарландыру ұзындығы 1-ден 70 таңбаға дейін,curated,,,
+launcherAuthSavedProfileCharacters,inconsistent_term,Персонажи:,Таңбалар:,Кейіпкерлер:,curated,,,
+battlepass_congratulate,inconsistent_term,ПОЗДРАВЛЯЕМ!,Сүйінші!,ҚҰТТЫҚТАЙМЫЗ!,curated,,,
+summerRushCongratsTitle,inconsistent_term,Поздравляем!,Сүйінші!,Құттықтаймыз!,curated,,,
+selectRegionConfirmTitle,manual,"ВЫ ДЕЙСТВИТЕЛЬНО ХОТИТЕ 
+изменить регион?",Тапсырманы шынымен ауыстырғыңыз келе ме?,"СІЗ ШЫНЫМЕН
+АЙМАҚТЫ ӨЗГЕРТКІҢІЗ КЕЛЕ МЕ?",curated,,,
+tune_tuning,manual,ТЮНИНГ,ТЮНГ,ТЮНИНГ,curated,,,
+balance,manual,Баланс,қолма-қол ақша,Баланс,curated,,,
+battlepass_balance,manual,БАЛАНС,қолма-қол ақша,БАЛАНС,curated,,,
+tablet_app_balance,manual,Баланс,қолма-қол ақша,Баланс,curated,,,
+to,manual,до,қазір,дейін,curated,,,
+before,manual,до,қазір,дейін,curated,,,
+for_word,manual,за,артында,үшін,curated,,,
+marriage,manual,Брак,Заңға бағынушылық,Неке,curated,,,
+rm_title_10,manual,Имущество,Таңдамалыларды баптау,Мүлік,curated,,,
+favorite,manual,Избранные,Қолжетерлік іс-әрекеттер,Таңдаулылар,curated,,,

@@ -1,0 +1,77 @@
+key,new_text,note
+laAccountEmptyHelpTopText1,"Мұнда кейіпкерлеріңіздің\nстатистикасы көрсетіледі",missing key
+laYouNeedToLinkThisSocialNetworkToAccount,Бұл әлеуметтік желіні аккаунтыңызға байланыстыруыңыз қажет,missing key
+inventory,Инвентарь,missing key
+invDisassemble,БӨЛШЕКТЕУ,missing key
+tablet_auc_all_your_bets,Сіздің барлық ставкаларыңыз,missing key
+bankConfirmApartment,"Сіз шынымен жылжымайтын мүлік үшін төлегіңіз келе ме: Пәтер\nсомасы",missing key
+bankConfirmHouse,"Сіз шынымен жылжымайтын мүлік үшін төлегіңіз келе ме: Үй\nсомасы",same_as_source
+piggyGetBy,Алу:,missing key
+newYearInfoDesc2,"Тапсырмаларды орындап, Сезондық пас үшін тәжірибе мен кәмпиттер алуға болады.\n\nКүнделікті тапсырмалар күн сайын жаңарады, сондай-ақ оларды арнайы бустер арқылы жаңартуға болады.\n\nСондай-ақ Сезондық пас сатып алғанда арнайы тапсырмаларға қолжетімділік ашылады.",missing key
+bigCatchTournamentsVictories,Турнирлердегі жеңістер,missing key
+bigCatchStoryLineSkipTimer,Таймерді өткізу,missing key
+inventoryMailSubsectionLeftHand,Сол қол,missing key
+dragRacingLevelUpgradeTitle1,ДЕҢГЕЙГЕ,empty value
+predictionsBetsPossibleReward,Мүмкін ұтыс,missing key
+laAuthorisationError,Авторизация қатесі,wrong_language (uz)
+pauseSettingsSocialMedia,ӘЛЕУМЕТТІК ЖЕЛІЛЕРДІ БАЙЛАНЫСТЫРУ,wrong_language (uz)
+settingsGameShowHud,Худты көрсету,wrong_language (uz)
+bankTotalToPay,Төлемнің жиыны:,wrong_language (uz)
+summerRushFreshCases,Жаңа кейстер,wrong_language (uz)
+edu_tablet_purchase_item_lottery_ticket,Лотерея билеті,wrong_language (uz)
+inventoryEquipped,Киілген,wrong_language (en)
+srv2endsIn,ІС-ШАРА АЯҚТАЛУЫНА ДЕЙІН:,wrong_language (uz)
+launcherSettingsDeleteAccountConfirm,"Ойын профилін жою үшін\nқосымша жабылады.\nОны қайта іске қосыңыз.",wrong_language (pt)
+arena_starting_health,бастапқы денсаулық,wrong_language (uz)
+jungleTreasuresRecieveImmediately,және затты бірден алу,same_as_source
+summerRushAfkKickCountdown,АФК үшін шығарылуға дейін,same_as_source
+edu_desc_hud_control_enter_vehicle,"Тамаша, көлікті аштың. Енді экранның оң жағындағы батырманы басып, көлікке отыр.",same_as_source
+birthday_info_more_play,Қанша көп ойнасаң — Сен және Сенің Командаң соншалықты жоғары көтеріледі!,same_as_source
+userMenuReportsAdminConclusionReviewed,Қорытынды: әкімш.{adminName} (Қаралды),same_as_source
+footballTutorDesc31,Матчтарға қатысу үшін жанармай қажет.,same_as_source
+chaosStep3Part1Text,"Қайда барарыңды білмесең,\nтапсырмалар әрі қарай не істеу керегін айтады. Жай ғана\nмақсатты таңда – қала сені сынаудың жолын өзі табады.",same_as_source
+srv2needPremiumPass,Premium Pass қажет,same_as_source
+schTutorialT8S0,"Жылдам жеңіс үшін заңды „чит-кодтар“ керек пе?\n<g>Бустерлер</g> бөлімі — сенің жеке допинг-бақылауың! Мұнда қарсыластардан\nүстемдік беретін арнайы жақсартулар сатылады.",same_as_source
+schDuelsPointsAmount,{points} ҰПАЙ,placeholder lost
+laBillingRetrying,Қосылу мәселесі: {provider}. Қайталау…,suffix_harmony
+laBillingUnavailable,Бұл құрылғыда {provider} арқылы төлем қолжетімді емес.,suffix_harmony
+newYearChapter,{competition} АКТІСІ,suffix_harmony
+userMenuReportsFromTo,"Кімнен: {fromUser}, кімге қарсы: {toUser}",suffix_harmony
+predictionsBuyCoinsMaxError,{max} мәнінен көп сатып алуға болмайды,suffix_harmony
+srv2needPassLevel,"Пасстың\n{id} деңгейі қажет",suffix_harmony
+rouletteBetText,"Сіз шынымен <g>{x}X</g> мәніне\n<g>{bet} GC</g> ставка жасағыңыз келе ме?",suffix_harmony
+wheelOfFortuneBuyFor,Сатып алу: {price},suffix_harmony
+hud_play_50_hours,50 сағат ойна,number dropped
+tablet_ad_info,Хабарландыру ұзындығы 1-ден 70 таңбаға дейін,numbers changed
+laUnknownNetworkError,Белгісіз қате,same_as_source
+tune_detail_turbocharging,ТУРБОҮРЛЕУ,same_as_source
+onex_bet_draw_suffix,ТЕҢ ОЙЫН,same_as_source
+halloweenEnergyBank,"ЭНЕРГИЯ\nЖИНАҚ ЖӘШІГІ",same_as_source
+dragRacingInfo,Ақпарат,same_as_source
+dragRacingTypeStreet,Көше жарыстары,same_as_source
+footballTutorTitle71,Көшбасшылар тақтасы,same_as_source
+tune_detail_horn,СИГНАЛДАР,same_as_source
+alchemy_bouquet,Гүл шоғы,same_as_source
+alchemyItemBouquet,Гүл шоғы,same_as_source
+chat_department,Бөлім,same_as_source
+alchemyBand,Таспа,same_as_source
+alchemyClown,Масқарапаз,same_as_source
+birthday_improvements_cooldown,Қайта қалпына келу уақыты,same_as_source
+rm_title_73,Қорқыту,same_as_source
+pts,Көлік тіркеу куәлігі,same_as_source
+sberMiniGameArzamas,Орналасқан жері: Арзамас,same_as_source
+festivalCardsTitle,КАРТА ДЕСТЕСІ,same_as_source
+selectRegionConfirmTitle,"СІЗ ШЫНЫМЕН\nАЙМАҚТЫ ӨЗГЕРТКІҢІЗ КЕЛЕ МЕ?",wrong object in translation
+tune_tuning,ТЮНИНГ,typo vs glossary
+balance,Баланс,semantic (cash instead of balance)
+battlepass_balance,БАЛАНС,semantic
+tablet_app_balance,Баланс,semantic
+launcherAuthSavedProfileCharacters,Кейіпкерлер:,semantic (Таңбалар = signs)
+battlepass_congratulate,ҚҰТТЫҚТАЙМЫЗ!,semantic
+summerRushCongratsTitle,Құттықтаймыз!,semantic
+to,дейін,semantic (қазір = now)
+before,дейін,semantic
+for_word,үшін,semantic
+marriage,Неке,semantic
+rm_title_10,Мүлік,semantic
+favorite,Таңдаулылар,semantic

@@ -1,0 +1,42 @@
+{
+  "tool": "locqa",
+  "language": "uz",
+  "language_name": "Uzbek",
+  "language_native": "O‘zbekcha",
+  "source_file": "/tmp/claude-0/-home-claude/e3d96e86-4e33-521e-ac95-d3080bef86e3/scratchpad/handout/handout/intl_ru.arb",
+  "target_file": "/tmp/claude-0/-home-claude/e3d96e86-4e33-521e-ac95-d3080bef86e3/scratchpad/handout/handout/intl_uz.arb",
+  "source_keys": 5478,
+  "target_keys": 5474,
+  "findings": 226,
+  "affected_keys": 215,
+  "by_type": {
+    "untranslated": 4,
+    "same_as_source": 0,
+    "placeholder_mismatch": 3,
+    "plural_mismatch": 0,
+    "glossary_violation": 5,
+    "length_overflow": 0,
+    "machine_translation_suspect": 0,
+    "inconsistent_term": 104,
+    "suffix_harmony": 0,
+    "orthography": 108,
+    "wrong_language": 2
+  },
+  "by_severity": {
+    "high": 23,
+    "medium": 18,
+    "low": 185
+  },
+  "glossary_terms": 13,
+  "reference_languages": [
+    "en",
+    "kk"
+  ],
+  "duplicate_keys_in_target": [
+    "bigCatchAllPrizes",
+    "bigCatchOpenCase",
+    "cancel",
+    "expeditionBoosterPurchaseTitleDesc",
+    "expedition_piggy_bank_confirm"
+  ]
+}

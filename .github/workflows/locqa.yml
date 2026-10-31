@@ -1,0 +1,18 @@
+name: locqa
+on:
+  pull_request:
+    paths: ["**/*.arb"]
+jobs:
+  qa:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - name: Kazakh
+        run: python -m locqa check --source lib/l10n/intl_ru.arb --target lib/l10n/intl_kk.arb --glossary glossary/glossary.csv --out report_kk.json --fail-on high
+      - name: Uzbek
+        run: python -m locqa check --source lib/l10n/intl_ru.arb --target lib/l10n/intl_uz.arb --lang uz --glossary glossary/glossary.csv --out report_uz.json --fail-on high
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with: { name: locqa-reports, path: "report_*.html\nreport_*.json" }

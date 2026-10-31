@@ -1,0 +1,6 @@
+data/
+handout/
+*.tgz
+__pycache__/
+*.pyc
+.venv/

@@ -1,0 +1,148 @@
+﻿key,issue_types,source,original,proposed,origin,decision,final_text,reviewer
+bigCatchTournamentsVictories,untranslated,Побед в турнирах,,Turnirdagi g‘alabalar:,auto,,,
+slot_machine_jackpot_help,orthography,ДЖЕКПОТ,jекпот,jekpot,auto,,,
+police_set_on_vehicle,orthography,установить на авто,Mashinaга o‘rnatish,Mashinaga o‘rnatish,auto,,,
+police_storage_confirmation,orthography,"Вы действительно хотите 
+снять номер на сохранение?","Davlat raqamini yechib olib,
+omборga saqlashni xohlaysizmi?","Davlat raqamini yechib olib,
+omborga saqlashni xohlaysizmi?",auto,,,
+upgrade_auto,orthography,Улучшить авто,Mashинаni yangilash,Mashinani yangilash,auto,,,
+drag_race_education_0,orthography,"Добро пожаловать на ивент Drag Racing! Тебе предстоит пройти большую сюжетную линию, затюнинговать свой автомобиль, а также побороться за крутые призы в рейтинговых гонках! Но для начала тебе нужно выбрать свой первый автомобиль. На выбор представлено три разных автомобиля, среди которых ты можешь выбрать то, что тебе по вкусу. В будущем остальные автомобили можно будет открыть при помощи специальных карточек.","Drag Racing iventiga xush kelibsiz! Siz katta syujetdan o‘tasiz, mashinangizni tyunинг qilasiz va reyting poygalarida zo‘r sovrinlar uchun bellashasiz! Avval esa birinchi mashinangizni tanlashingiz kerak. Xohishingizga ko‘ra uchta mashinadan birini tanlashingiz mumkin. Keyin boshqa mashinalar maxsus kartalar orqali ochiladi.","Drag Racing iventiga xush kelibsiz! Siz katta syujetdan o‘tasiz, mashinangizni tyuning qilasiz va reyting poygalarida zo‘r sovrinlar uchun bellashasiz! Avval esa birinchi mashinangizni tanlashingiz kerak. Xohishingizga ko‘ra uchta mashinadan birini tanlashingiz mumkin. Keyin boshqa mashinalar maxsus kartalar orqali ochiladi.",auto,,,
+arena_exit_text,orthography,"Выход
+с арены","Arenaдан
+chiqish","Arenadan
+chiqish",auto,,,
+arena_close_title,orthography,"Вы действительно
+хотите покинуть арену?",Arenaдан chiqmoqchimisiz?,Arenadan chiqmoqchimisiz?,auto,,,
+arena_direct_exit_message,orthography,Вы действительно хотите покинуть арену?,Arenaдан chiqmoqchimisiz?,Arenadan chiqmoqchimisiz?,auto,,,
+arena_close,orthography,Выйти с арены,Arenaдан chiqish,Arenadan chiqish,auto,,,
+arena_back,orthography,Вернуться на арену,Arenaга qaytish,Arenaga qaytish,auto,,,
+expeditionLeftMinute,orthography,минута,daqiqа,daqiqa,auto,,,
+edu_go_to_tablet_store,orthography,"Первым делом заедем и купим тебе планшет, отправляйся по метке в круглосуточный магазин.","Avvalo borib senga planshet sotib olamiz, belgi boʻyicha sutкаlik doʻkonga yoʻl ol.","Avvalo borib senga planshet sotib olamiz, belgi bo‘yicha sutkalik do‘konga yo‘l ol.",auto,,,
+lnyRotateRoulette,orthography,КРУТИ РУЛЕТКУ,ROULETKANI AYLANТIRING,ROULETKANI AYLANTIRING,auto,,,
+lnyFireHorseWay,orthography,"ПУТЬ
+ОГНЕННОЙ
+ЛОШАДИ","OLАVLI OT
+YO‘LI","OLAVLI OT
+YO‘LI",auto,,,
+schBannerEventTitle,orthography,ШКОЛЬНЫЙ ИВЕНТ,MAKTAB IVЕNTI,MAKTAB IVENTI,auto,,,
+commonPrizes,orthography,Призы,Sovg'alar,Sovg‘alar,auto,,,
+laUnpackingTexturesStraightening,orthography,Выпрямляем помятые в архиве текстуры,Teksturalarni to'g'irlash,Teksturalarni to‘g‘irlash,auto,,,
+paymentBonusBannerText,orthography,Оплати через СБП или другие платежные системы и получи скидку ДО 20%,Boshqa toʻlov tizimlari orqali toʻlang va 20% gacha chegirma oling,Boshqa to‘lov tizimlari orqali to‘lang va 20% gacha chegirma oling,auto,,,
+police_storage_price,orthography,ЦЕНА %s₽,NARX %s soʻm,NARX %s so‘m,auto,,,
+bingo_restart,orthography,Перезапустить бинго,Bingo’ni qayta boshlash,Bingo‘ni qayta boshlash,auto,,,
+bingo_completion,orthography,Поздравляем! Вы прошли всё GRAND бинго!,Tabriklaymiz! Siz GRAND Bingo’ni to‘liq yakunladingiz!,Tabriklaymiz! Siz GRAND Bingo‘ni to‘liq yakunladingiz!,auto,,,
+edu_desc_tablet_overview,orthography,"В планшете есть всё необходимое: звонки, СМС, аукцион недвижимости, торговая площадка для скинов и аксессуаров — и многое другое.","Planshetda kerakli hamma narsa bor: qoʻngʻiroqlar, SMS, koʻchmas mulk auksioni, skinlar va aksessuarlar savdo maydonchasi — va boshqa koʻplab narsalar.","Planshetda kerakli hamma narsa bor: qo‘ng‘iroqlar, SMS, ko‘chmas mulk auksioni, skinlar va aksessuarlar savdo maydonchasi — va boshqa ko‘plab narsalar.",auto,,,
+edu_desc_tablet_purchase,orthography,"Планшет — твой главный помощник. Купи его, чтобы пользоваться важными приложениями и связью.",Planshet — sening asosiy yordamching. Muhim ilovalardan foydalanish va aloqada boʻlish uchun uni sotib ol.,Planshet — sening asosiy yordamching. Muhim ilovalardan foydalanish va aloqada bo‘lish uchun uni sotib ol.,auto,,,
+edu_desc_fuel_fill_tank,orthography,Набери полный бак,Bakni toʻldir,Bakni to‘ldir,auto,,,
+edu_desc_fuel_buy_with_cash,orthography,"Отлично, теперь осталось только заплатить!","Ajoyib, endi faqat toʻlash qoldi!","Ajoyib, endi faqat to‘lash qoldi!",auto,,,
+edu_tablet_purchase_store_title,orthography,Магазин 24/7,24/7 doʻkoni,24/7 do‘koni,auto,,,
+edu_tablet_purchase_item_repair_kit,orthography,Рем. комплект,Taʼmirlash toʻplami,Taʼmirlash to‘plami,auto,,,
+edu_desc_um_open_quests,orthography,Нажми на этот раздел,Ushbu boʻlimni bos,Ushbu bo‘limni bos,auto,,,
+edu_title_um_accept_second_quests_desc,orthography,"Продолжай выполнять задания и получай опыт и другие ценные награды. Кажется, настало время подкрепиться!","Topshiriqlarni bajarishda davom et hamda tajriba va boshqa qimmatbaho mukofotlarga ega boʻl. Shekilli, tamaddi qilib olish vaqti keldi!","Topshiriqlarni bajarishda davom et hamda tajriba va boshqa qimmatbaho mukofotlarga ega bo‘l. Shekilli, tamaddi qilib olish vaqti keldi!",auto,,,
+edu_go_to_gas_station,orthography,Заезжай на заправку и пополни бак перед поездкой.,"Yoʻlga chiqishdan oldin yonilgʻi quyish shoxobchasiga kirib, bakni toʻldirib ol.","Yo‘lga chiqishdan oldin yonilg‘i quyish shoxobchasiga kirib, bakni to‘ldirib ol.",auto,,,
+edu_go_to_bus_station,orthography,"Не будем задерживаться. Дома у тебя пока нет, поэтому отправляйся на автовокзал.","Ushlanib qolmaylik. Hozircha uying yoʻq, shuning uchun avtovokzalga yoʻl ol.","Ushlanib qolmaylik. Hozircha uying yo‘q, shuning uchun avtovokzalga yo‘l ol.",auto,,,
+edu_skip_road_question,orthography,Пропустить путь?,Yoʻlni o‘tkazib yuborilsinmi?,Yo‘lni o‘tkazib yuborilsinmi?,auto,,,
+donateV2Step2,orthography,2. Введите ваш ID и укажите сумму пополнения.,2. ID’ingizni kiriting va to’ldirish summasini ko’rsating.,2. ID’ingizni kiriting va to‘ldirish summasini ko‘rsating.,auto,,,
+shopNewShardCollected,orthography,Всего осколков получено:,Yig'ilgan parchalar:,Yig‘ilgan parchalar:,auto,,,
+shopNewShardScaleSubtitle,orthography,Заполни шкалу и получи 1 кейс бесплатно!,Shkalani to'ldiring va 1 ta keysni bepul oling!,Shkalani to‘ldiring va 1 ta keysni bepul oling!,auto,,,
+shopNewGuaranteedPrizeDesc,orthography,"Открывай кейсы, получай фрагмент награды и забирай гарантированные призы.","Keyslarni oching, sovrin bo'laklarini to'plang va kafolatlangan sovrinlarni oling.","Keyslarni oching, sovrin bo‘laklarini to‘plang va kafolatlangan sovrinlarni oling.",auto,,,
+shopNewFragmentsCollected,orthography,Фрагментов собрано,Bo'laklar to'plandi,Bo‘laklar to‘plandi,auto,,,
+blackListinfoSubTitle,orthography,"Выполняй контракты, повышай ранг, зарабатывай токены
+и открывай уникальные награды.","Shartnomalarni bajarib, reyting ko'tarib, tokenlar ishlang
+va o'ziga xos mukofotlarni oching.","Shartnomalarni bajarib, reyting ko‘tarib, tokenlar ishlang
+va o‘ziga xos mukofotlarni oching.",auto,,,
+blackListinfoHowToPlayStep1,orthography,Выбери контракт — получи задание на угон машины.,Shartnoma tanlang — avtomobilni oʻgirish topshirig'ini oling.,Shartnoma tanlang — avtomobilni o‘girish topshirig‘ini oling.,auto,,,
+blackListinfoHowToPlayStep2,orthography,Взломай авто — пройди мини-игру.,Avtomobilni buzib oling — mini-o'yinni tugatib oling.,Avtomobilni buzib oling — mini-o‘yinni tugatib oling.,auto,,,
+blackListinfoHowToPlayStep3,orthography,"Угони и доставь машину — успей до таймера, сохрани авто в хорошем состоянии.","Avtomobilni o'g'irib, yetkazib bering — vaqt tugaguncha, avtomobilni yaxshi holda saqlang.","Avtomobilni o‘g‘irib, yetkazib bering — vaqt tugaguncha, avtomobilni yaxshi holda saqlang.",auto,,,
+blackListinfoHowToPlayStep5,orthography,Повышай ранг — открой более сложные и прибыльные контракты.,Reyting ko'taring — yanada murakkab va foydali shartnomalarni oching.,Reyting ko‘taring — yanada murakkab va foydali shartnomalarni oching.,auto,,,
+blackListinfoHowToPlayPostStep1,orthography,Выбери контракт — получи задание на угон машины.,Shartnoma tanlang — avtomobilni oʻgirish topshirig'ini oling.,Shartnoma tanlang — avtomobilni o‘girish topshirig‘ini oling.,auto,,,
+blackListinfoHowToPlayPostStep2,orthography,Взломай авто — пройди мини-игру.,Avtomobilni buzib oling — mini-o'yinni tugatib oling.,Avtomobilni buzib oling — mini-o‘yinni tugatib oling.,auto,,,
+blackListinfoHowToPlayPostStep3,orthography,"Угони и доставь машину — успей до таймера, сохрани авто в хорошем состоянии.","Avtomobilni o'g'irib, yetkazib bering — vaqt tugaguncha, avtomobilni yaxshi holda saqlang.","Avtomobilni o‘g‘irib, yetkazib bering — vaqt tugaguncha, avtomobilni yaxshi holda saqlang.",auto,,,
+blackListinfoProfitInfoStep2,orthography,Репутация — повышает твой ранг и открывает новые контракты.,Obro — sizning reytinanizni ko'taradi va yangi shartnomalarni ochadi.,Obro — sizning reytinanizni ko‘taradi va yangi shartnomalarni ochadi.,auto,,,
+blackListinfoProfitInfoStep3,orthography,Топливо — нужно для контрактов и гонок. Восстанавливается со временем.,Yoqilg'i — shartnomalar va poygalar uchun kerak. Vaqt o'tishi bilan tiklanaidi.,Yoqilg‘i — shartnomalar va poygalar uchun kerak. Vaqt o‘tishi bilan tiklanaidi.,auto,,,
+blackListinfoProfitInfoPostStep1,orthography,Топливо — нужно для контрактов и гонок. Восстанавливается со временем.,Yoqilg'i — shartnomalar va poygalar uchun kerak. Vaqt o'tishi bilan tiklanaidi.,Yoqilg‘i — shartnomalar va poygalar uchun kerak. Vaqt o‘tishi bilan tiklanaidi.,auto,,,
+blackListinfoIncreaseRankTitle,orthography,Повышай ранг - открывай лучшее,Reyting ko'taring - eng yaxshisini oching,Reyting ko‘taring - eng yaxshisini oching,auto,,,
+blackListinfoIncreaseRankDescription,orthography,"Выполняй контракты и участвуй в гонках, чтобы зарабатывать Репутацию. Новый ранг — это доступ к новым контрактам, премиум-наградам и косметике","Shartnomalarni bajarib va poygalarda qatnashib, obro ishlay oling. Yangi reyting yangi shartnomalar, premium mukofotlar va kosmetikami kirish degan so'z","Shartnomalarni bajarib va poygalarda qatnashib, obro ishlay oling. Yangi reyting yangi shartnomalar, premium mukofotlar va kosmetikami kirish degan so‘z",auto,,,
+blackListinfoRewardsList,orthography,"• Эксклюзивные авто
+• Скидки в магазинах
+• Уникальные скины
+• Тематические аксессуары","• Eksklyuziv avtomobillar
+• Do'kondagi chegirmalar
+• Noyob teri
+• Tematik aksessuarlar","• Eksklyuziv avtomobillar
+• Do‘kondagi chegirmalar
+• Noyob teri
+• Tematik aksessuarlar",auto,,,
+blackListinfoShopButton,orthography,В магазин,Do'konga,Do‘konga,auto,,,
+blackListinfoRestartTutorialButton,orthography,Перепройти обучение,Darslikni qayta o'ynash,Darslikni qayta o‘ynash,auto,,,
+blackListUpgradesTabThief,orthography,Взломщик,O'g'ri,O‘g‘ri,auto,,,
+blackListUpgradesTabWrongTracks,orthography,Ложные Следы,Yolg'on Iz,Yolg‘on Iz,auto,,,
+blackListUpgradesInfoThief,orthography,"Вы можете улучшить параметры мини-игры ""Взлом Авто""","Siz ""Avtomobilni buzish"" mini-o'yinining parametrlarini yaxshilashy olasiz","Siz ""Avtomobilni buzish"" mini-o‘yinining parametrlarini yaxshilashy olasiz",auto,,,
+blackListUpgradesBonusWrongTracksDesc,orthography,за контракт можно скрыть свою метку на карте и метку над персонажем на,shartnoma boʻyicha xarita ustidagi belgingiz va belgi ustidagi belgingizni saqloshi olasiz,shartnoma bo‘yicha xarita ustidagi belgingiz va belgi ustidagi belgingizni saqloshi olasiz,auto,,,
+blackListNoCounterContract,orthography,"В вашем радиусе нет контрактов в процессе.
+Вы можете переместиться в другой район.","Sizning radiusingizda faol shartnomalar yo'q.
+Siz boshqa hududga ko'chib o'tishingiz mumkin.","Sizning radiusingizda faol shartnomalar yo‘q.
+Siz boshqa hududga ko‘chib o‘tishingiz mumkin.",auto,,,
+blackListModifierTitle,orthography,УСЛОВИЯ МОДИФИКАТОРА,O'ZGARTIRUVCHI SHARTLAR,O‘ZGARTIRUVCHI SHARTLAR,auto,,,
+bigCatchSkill,orthography,Навык,Ko'nikma,Ko‘nikma,auto,,,
+bigCatchTakeAll,orthography,Забрать себе,O'zingga olish,O‘zingga olish,auto,,,
+bigCatchRelease,orthography,Отпустить,Qo'yib yuborish,Qo‘yib yuborish,auto,,,
+tradePlatformPaymentTypeLabel,orthography,ТИП ОПЛАТЫ:,TO'LOV TURI:,TO‘LOV TURI:,auto,,,
+tradePlatformListForSale,orthography,Выставить на продажу,Sotuvga qo'yish,Sotuvga qo‘yish,auto,,,
+tradePlatformNoLots,orthography,Лотов нет,Lotlar yo'q,Lotlar yo‘q,auto,,,
+tradePlatformRarityUncommon,orthography,Необычный,G'ayrioddiy,G‘ayrioddiy,auto,,,
+networkHackingSkip,orthography,"Вы уверены, что хотите пропустить таймер и получить","Taymerni o'tkazib yuborib, olishni xohlaysizmi","Taymerni o‘tkazib yuborib, olishni xohlaysizmi",auto,,,
+dragRacingV2LeagueUp,orthography,Повышение,Rag'batlantirish,Rag‘batlantirish,auto,,,
+dragRacingV2LeaderboardDescU,orthography,Скоро ты сможешь получать награды!,Tez orada mukofotlarga ega bo'lishingiz mumkin!,Tez orada mukofotlarga ega bo‘lishingiz mumkin!,auto,,,
+footballGameReward,orthography,Награда за победу:,G'alaba uchun mukofot:,G‘alaba uchun mukofot:,auto,,,
+vipGotoPremium,orthography,Перейти на Elite,Elite'ga o'tish,Elite'ga o‘tish,auto,,,
+vipSwitchToBase,orthography,Перейти на Базовую,Asosiyga o'tish,Asosiyga o‘tish,auto,,,
+vipSwitchCancelFirst,orthography,"Отмените текущую подписку, чтобы сменить тариф",Tarifni o'zgartirish uchun joriy obunani bekor qiling,Tarifni o‘zgartirish uchun joriy obunani bekor qiling,auto,,,
+vipManageInStore,orthography,"Управляйте подпиской в магазине, где вы её оформили",Obunani sotib olgan do'koningizda boshqaring,Obunani sotib olgan do‘koningizda boshqaring,auto,,,
+vipUpdatePayment,orthography,Обновить оплату,To'lovni yangilash,To‘lovni yangilash,auto,,,
+vipPaymentFailed,orthography,"Оплата не прошла. Обновите способ оплаты,
+чтобы продолжить пользоваться преимуществами.","To'lov amalga oshmadi. Imtiyozlardan foydalanishni davom ettirish uchun
+to'lov usulini yangilang.","To‘lov amalga oshmadi. Imtiyozlardan foydalanishni davom ettirish uchun
+to‘lov usulini yangilang.",auto,,,
+vipGotoGame,orthography,В игру!,O'yinga!,O‘yinga!,auto,,,
+vipYouLose,orthography,Вы потеряете:,Siz yo'qotasiz:,Siz yo‘qotasiz:,auto,,,
+vipCancelOfferText2,orthography,А после %s платеж будет,%s dan keyin to'lov,%s dan keyin to‘lov,auto,,,
+vipGoto,orthography,Перейти к VIP,VIP'ga o'tish,VIP'ga o‘tish,auto,,,
+chaosFuelConfirmText,orthography,"Вы действительно хотите пополнить
+топливо на {fuelValue} литров?","Haqiqatan ham {fuelValue} litr
+yoqilg'i qo'shmoqchimisiz?","Haqiqatan ham {fuelValue} litr
+yoqilg‘i qo‘shmoqchimisiz?",auto,,,
+chaosFuelConfirmButton,orthography,Пополнить за,To'ldirish uchun,To‘ldirish uchun,auto,,,
+festivalShopTitle,orthography,МАГАЗИН,DO'KON,DO‘KON,auto,,,
+festivalLotteryDescription,orthography,"Собери 3 совпадения
+и получи призы!","3 ta bir xil belgini to'plang
+va sovrinlarga ega bo'ling!","3 ta bir xil belgini to‘plang
+va sovrinlarga ega bo‘ling!",auto,,,
+festivalScratchTiles,orthography,Стирай плитки!,Kataklarni o'chiring!,Kataklarni o‘chiring!,auto,,,
+festivalPlayFor,orthography,ИГРАТЬ {price},O'YNASH {price},O‘YNASH {price},auto,,,
+festivalWatchChests,orthography,Посмотри на призы!,Sovrinlarni ko'ring!,Sovrinlarni ko‘ring!,auto,,,
+festivalCardsWatchPrizes,orthography,Посмотри на призы!,Sovrinlarni ko'ring!,Sovrinlarni ko‘ring!,auto,,,
+festivalGamesRequired,orthography,Каждые {count} игр,Har {count} ta o'yinda,Har {count} ta o‘yinda,auto,,,
+festivalRewardsList,inconsistent_term|orthography,Список наград,Mukofotlar ro'yxati,Mukofotlar ro‘yxati,auto,,,
+festivalGameConfirmTargetSuffix,orthography,?, o'yinini?, o‘yinini?,auto,,,
+festivalTopUpAmount,inconsistent_term|orthography,Сумма пополнения:,To'ldirish summasi:,To‘ldirish summasi:,auto,,,
+festivalStoreBanner,orthography,"Заходи в магазин и покупай
+крутые предметы!","Do'konga kiring va
+zo'r narsalarni sotib oling!","Do‘konga kiring va
+zo‘r narsalarni sotib oling!",auto,,,
+festivalGoToShop,orthography,Перейти в Магазин,Do'konga o'tish,Do‘konga o‘tish,auto,,,
+vehicleMarkerTitle1,orthography,"Теперь вы можете легко найти свой транспорт: маркер
+на экране покажет его положение или направление,
+а метка на мини-карте — точное местоположение","Endi transportingizni osongina topishingiz mumkin: ekrandagi
+marker uning joylashuvi yoki yo'nalishini, mini-xaritadagi belgi
+esa aniq joylashuvini ko'rsatadi","Endi transportingizni osongina topishingiz mumkin: ekrandagi
+marker uning joylashuvi yoki yo‘nalishini, mini-xaritadagi belgi
+esa aniq joylashuvini ko‘rsatadi",auto,,,
+vehicleMarkerTitle2,orthography,"Экранные маркеры можно в любой момент включить
+или выключить. Метка на мини-карте продолжит
+отображаться независимо от этой настройки","Ekrandagi markerlarni istalgan vaqtda yoqish yoki o'chirish
+mumkin. Mini-xaritadagi belgi bu sozlamadan qat'i nazar
+ko'rsatilishda davom etadi","Ekrandagi markerlarni istalgan vaqtda yoqish yoki o‘chirish
+mumkin. Mini-xaritadagi belgi bu sozlamadan qat'i nazar
+ko‘rsatilishda davom etadi",auto,,,
